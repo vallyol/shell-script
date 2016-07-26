@@ -1,3 +1,6 @@
+ 	*** drupal_custom_theme.sh ***
+	==============================
+
 Drupal 7 custom theme generator
 ===============================
 Quick and easy creation of a custom blank theme for Drupal 7.
