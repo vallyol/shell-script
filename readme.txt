@@ -29,3 +29,16 @@ I.I. Place the file in the root directory of the website and execute it
 (with admin, catalog, image and system folders)
 
 How to use - https://yadi.sk/d/nY1pb83dGDthng
+
+
+ 	*** create_htmly_blank_theme.sh ***
+	===================================
+Create a new blank theme for HTMLy platform
+
+I. Install
+==========
+I.I. Place the file in the theme directory of the website and execute it
+
+II. What make
+=============
+II.I. Create a theme structure: directories, blank templates
