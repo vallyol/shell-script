@@ -42,3 +42,4 @@ I.I. Place the file in the theme directory of the website and execute it
 II. What make
 =============
 II.I. Create a theme structure: directories, blank templates
+II.II. Theme directory name: removes spaces, removes capital letters, transliterated name from Cyrillic
